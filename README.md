@@ -110,7 +110,7 @@ TFG_victor/
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/<usuario>/TFG_victor.git
+   git clone https://github.com/aiis-group/Aurora_fine_tuning.git
    cd TFG_victor
    ```
 
