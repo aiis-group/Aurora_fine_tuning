@@ -7,17 +7,19 @@ Este proyecto se centra en **adaptar y entrenar el modelo Aurora en el ámbito o
 ---
 
 ## Índice
-1. [Descripción del proyecto](#descripción-del-proyecto)  
-2. [Estructura del repositorio](#estructura-del-repositorio)  
-3. [Requerimientos e instalación](#requerimientos-e-instalación)  
-4. [Uso del código](#uso-del-código)  
-    - [Ejecutar el entrenamiento e inferencia (main.py)](#ejecutar-el-entrenamiento-e-inferencia-mainpy)  
-    - [Entrenar e inferir de forma modular (src/)](#entrenar-e-inferir-de-forma-modular-src)  
-    - [Experimentos Jupyter (Experimentos/)](#experimentos-jupyter-experimentos)  
-5. [Descripción de los principales scripts](#descripción-de-los-principales-scripts)  
-6. [Ejecutar los tests](#ejecutar-los-tests)  
-7. [Detalles adicionales para configuraciones y experimentos](#detalles-adicionales-para-configuraciones-y-experimentos)  
-8. [Contacto](#contacto)  
+- [Predicción de variables oceanográficas basada en métodos de aprendizaje profundo](#predicción-de-variables-oceanográficas-basada-en-métodos-de-aprendizaje-profundo)
+  - [Índice](#índice)
+  - [Descripción del proyecto](#descripción-del-proyecto)
+  - [Estructura del repositorio](#estructura-del-repositorio)
+  - [Requerimientos e instalación](#requerimientos-e-instalación)
+  - [Uso del código](#uso-del-código)
+    - [Ejecutar el entrenamiento e inferencia (main.py)](#ejecutar-el-entrenamiento-e-inferencia-mainpy)
+    - [Entrenar e inferir de forma modular (src/)](#entrenar-e-inferir-de-forma-modular-src)
+    - [Experimentos Jupyter (Experimentos/)](#experimentos-jupyter-experimentos)
+  - [Descripción de los principales scripts](#descripción-de-los-principales-scripts)
+  - [Ejecutar los tests](#ejecutar-los-tests)
+  - [Detalles adicionales para configuraciones y experimentos](#detalles-adicionales-para-configuraciones-y-experimentos)
+  - [Contacto](#contacto)
 
 ---
 
@@ -273,5 +275,7 @@ Para más detalle, revisa los *notebooks* en la carpeta `Experimentos/` que docu
 ## Contacto
 Para más información, dudas o sugerencias:  
 - **Correo**: victormedina2157@gmail.com  
+- **Correo**: giovanny.cuervo101@alu.ulpgc.es
+- **Correo**: jsanchez@ulpgc.es
 
 ¡Gracias por visitar este repositorio!  
